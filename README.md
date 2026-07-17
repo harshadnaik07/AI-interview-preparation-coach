@@ -1,4 +1,4 @@
-# 🤖 AI Interview Preparation Coach
+# 🤖  Interview Preparation Coach
 
 ## 📌 Project Overview
 AI Interview Preparation Coach is a web-based application that helps users practice interview questions and improve their interview skills. The platform provides multiple interview categories, voice answer support, performance analysis, and interview tips.
